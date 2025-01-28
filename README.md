@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning microservices architecture<br>🎯 Goals: eat(); sleep(); code(); repeat(); <br>🎲 Fun fact: life is fu#king awesome!</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning microservices architecture<br>🎯 Goals: eat(); sleep(); code(); repeat(); <br>🎲 Fun fact: life is fu#king awesome!</p>
 
 ###
 
