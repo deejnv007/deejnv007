@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="Center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">"I am Deepansu, a Software Developer currently based in Pune, India."</p>
+<p align="Center">"I am Deepansu, a Passionate Software Developer currently based in Pune, India."</p>
 
 ###
 
