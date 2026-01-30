@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ###
 
 
-<p align="left">💻 Software Engineer | 2+ years experience in Java & Spring Boot<br>
+<p align="left">💻 Software Engineer | around 3 years experience in Java & Spring Boot<br>
 📚 Building scalable applications with Java, Spring Boot, and Spring Cloud<br>
 🎯 Goals: Build scalable, maintainable, and high-performance software<br>
 🎲 Fun fact: I love solving challenging problems and optimizing code!</p>
